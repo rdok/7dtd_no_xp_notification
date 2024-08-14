@@ -15,7 +15,7 @@
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
         <ModName>NoXPNotificationDebug</ModName>
         <ModDescription>Turns off XP notification. </ModDescription>
-        <ModId>5749</ModId>
+        <ModId>5760</ModId>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>
