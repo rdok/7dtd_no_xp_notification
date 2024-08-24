@@ -9,8 +9,7 @@
 
 ## Features
 - Turns off XP notification.
-- 7dtd Version: 1.0 (b333)
-- Install with [Vortex](https://www.nexusmods.com/about/vortex/).
+- Game Version: 1.0. Install with [Vortex](https://www.nexusmods.com/about/vortex/).
 
 ## Changelog
 ### v1.0.0 14-Aug-24

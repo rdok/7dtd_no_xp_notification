@@ -108,7 +108,6 @@
         <!-- Delete the DLL and PDB for XML only mods -->
         <Delete Files="$(OutputPath)$(AssemblyName).dll" Condition="$(CompileCount) &lt;= 2"/>
         <Delete Files="$(OutputPath)$(AssemblyName).pdb" Condition="$(CompileCount) &lt;= 2"/>
-        <Message Text="Compiled file: @(Compile)" Importance="high"/>
     </Target>
 
 
